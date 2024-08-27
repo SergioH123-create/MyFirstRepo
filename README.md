@@ -1,2 +1,2 @@
 # MyFirstRepo
-Este es mu primer repositorio.
+Este es mi primer repositorio.
