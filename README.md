@@ -1,2 +1,2 @@
 # MyFirstRepo
-bash
+Este es mu primer repositorio.
